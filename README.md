@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/al-talal-bin-zahid-710981164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al-talal-bin-zahid-710981164" height="30" width="40" /></a>
 <a href="https://fb.com/altalalbinzahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="altalalbinzahid" height="30" width="40" /></a>
 <a href="https://instagram.com/al_talal_bin_zahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="al_talal_bin_zahid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucq4hewewjfwfdy0c_ujnkyq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucq4hewewjfwfdy0c_ujnkyq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCq4HEwEWjFWfDy0c_UjnKyQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucq4hewewjfwfdy0c_ujnkyq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
